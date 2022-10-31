@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "jti.polinema.ac.id.android_room.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "jti.polinema.ac.id.android_room.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "jti.polinema.ac.id.android_room.app-mergeDebugResources-40:/layout/fragment_first.xml",
+        "source": "jti.polinema.ac.id.android_room.app-main-43:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "jti.polinema.ac.id.android_room.app-mergeDebugResources-40:/layout/fragment_second.xml",
+        "source": "jti.polinema.ac.id.android_room.app-main-43:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "jti.polinema.ac.id.android_room.app-mergeDebugResources-40:/layout/content_main.xml",
+        "source": "jti.polinema.ac.id.android_room.app-main-43:/layout/content_main.xml"
+    }
+]
